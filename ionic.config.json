@@ -1,0 +1,7 @@
+{
+  "name": "my-appwrite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
