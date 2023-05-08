@@ -13,6 +13,7 @@ I am creating vue composables for Account and AppwriteClient. Will create them f
 
 ### Links
 --------------------------
+- Blog Post - https://dev.to/aaronksaunders/getting-started-with-appwrite-vue-js-ionic-framework-capacitor-2jl2
 - AppWrite Cloud - https://appwrite.io/public-beta
 - AppWrite - https://appwrite.io/
 - Ionic Framework - https://ionicframework.com/docs/
